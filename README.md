@@ -5,3 +5,8 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 Nama : Ratih Sulistia Ningsih
 NPM : 2313020234
 Mata Kuliah : Software Development
+
+## Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
